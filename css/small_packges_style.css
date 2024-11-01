@@ -1,0 +1,502 @@
+#wpfooter {
+  position: static;
+  margin-left: 0px !important;
+}
+
+#footer-left {
+  margin-left: 160px !important;
+}
+
+.wwex_connection_section_class .form-table tr .titledesc {
+  width: 300px;
+}
+
+.wwex_connection_section_class .button-primary {
+  font-size: 13px !important;
+  height: 40px;
+  margin-left: 24px;
+  width: 163px !important;
+}
+
+.sm_test_connection {
+  font-size: 13px !important;
+  width: 167px !important;
+  text-align: center;
+}
+
+.sm_test_connection:hover {
+  background: #008ec2;
+  color: #fff;
+  border-color: #006799;
+}
+
+.wwex_connection_section_class p.submit {
+  float: right;
+  text-align: left;
+  width: calc(100% - 310px);
+}
+
+.wwex_connection_section_class p.submit > * {
+  line-height: 2.9 !important;
+}
+
+.wwex_connection_section_class .connection_save_button {
+  margin-left: 15px;
+  width: 167px !important;
+  height: 40px;
+  background: #0085ba none repeat scroll 0 0;
+  color: #fff;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  border: none;
+}
+
+.wwex_connection_section_class input {
+  width: 350px !important;
+}
+
+.wwex_connection_section_class label {
+  cursor: default;
+}
+
+.quote_section_class_smpkg select {
+  height: 34px !important;
+}
+
+.quote_section_class_smpkg p.description {
+  font-style: normal;
+  margin: 0px;
+}
+
+.quote_section_class_smpkg input[type="text"] {
+  height: 34px !important;
+}
+
+.quote_section_class_smpkg textarea {
+  width: 350px;
+  border-radius: 4px;
+}
+
+.quote_section_class_smpkg input[type="checkbox"]:checked:before {
+  margin: -1px 0 0 -3px !important;
+}
+
+.quote_section_class_smpkg input[type="checkbox"] {
+  cursor: default;
+  height: 20px;
+  width: 20px;
+}
+
+.quote_section_class_smpkg .form-table tr .titledesc {
+  width: 300px;
+}
+
+.quote_section_class_smpkg label {
+  cursor: default;
+}
+
+.quote_section_class_smpkg .button-primary {
+  width: 120px !important;
+  margin-left: 435px;
+  height: 36px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+.handeling_fee_err {
+  color: #d54e21;
+  font-size: 13px;
+  display: block;
+}
+
+.wwex_connection_section_class .connection_save_button {
+  margin-left: 15px;
+  width: 190px !important;
+  height: 40px;
+  background: #298cba none repeat scroll 0 0 !important;
+  color: #fff;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  border: none;
+}
+
+.wwex_connection_section_class input {
+  width: 350px;
+}
+
+.class_success_message {
+  margin: 5px 0 15px !important;
+  border-left-color: #46b450 !important;
+  background: #fff;
+  border-left: 4px solid #fff;
+  -webkit-box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+  padding: 9.5px 12px;
+}
+
+.class_error_message {
+  margin: 5px 0 15px !important;
+  border-left-color: #dc3232 !important;
+  background: #fff;
+  border-left: 4px solid #fff;
+  -webkit-box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+  padding: 9.5px 12px;
+}
+
+.sm_setting_section .button-primary,
+.user_guide p.submit {
+  display: none;
+}
+
+.user_guide {
+  margin: 70px auto;
+  padding: 20px 20px 35px;
+  background: #fff;
+  border-radius: 5px;
+  width: 50%;
+  position: relative;
+  transition: all 5s ease-in-out;
+}
+
+.user_guide p {
+  font-size: 14px;
+}
+
+a:focus {
+  box-shadow: none !important;
+}
+
+.p_ds_location {
+  width: 50% !important;
+}
+
+label[for="wc_settings_wwe_delivery_estimate"] {
+  font-size: 13px;
+  font-style: italic;
+}
+
+label[for="wc_settings_wwe_allow_for_own_arrangment"] {
+  font-size: 13px;
+  font-style: italic;
+}
+
+.quotes_services_td {
+  padding: 0px 10px !important;
+  font-size: 12px !important;
+}
+
+.prevent_text_box {
+  padding: 7px;
+  font-size: 13px;
+}
+
+label[for="wc_settings_account_number_wwe_small_packages_quotes"]:after,
+label[for="wc_settings_username_wwe_small_packages_quotes"]:after,
+label[for="wc_settings_password_wwe_small_packages"]:after,
+label[for="wc_settings_authentication_key_wwe_small_packages_quotes"]:after,
+label[for="wc_settings_plugin_licence_key_wwe_small_packages_quotes"]:after {
+  content: " *";
+  color: red;
+}
+
+label[for="wc_settings_speedship_url_wwe_small_packages_quotes"]:after,
+label[for="wc_settings_oauth_url_wwe_small_packages_quotes"]:after,
+label[for="wc_settings_oauth_clientid_wwe_small_packages_quotes"]:after,
+label[for="wc_settings_oauth_client_secret_wwe_small_packages_quotes"]:after,
+label[for="wc_settings_oauth_audience_wwe_small_packages_quotes"]:after {
+  content: " *";
+  color: red;
+}
+
+label[for="sm_origin_zip"]:after,
+label[for="sm_origin_city"]:after,
+label[for="sm_origin_state"]:after,
+label[for="sm_origin_country"]:after {
+  content: " *";
+  color: red;
+}
+
+input[type="checkbox"] {
+  cursor: default;
+}
+
+.woocommerce_variable_attributes div.data select {
+  width: 100% !important;
+}
+
+.woocommerce_variable_attributes div.data .checkbox {
+  margin-left: 0px !important;
+  margin-right: 10px !important;
+}
+
+.en-list {
+  list-style-type: disc;
+  list-style-position: outside;
+  margin-left: 15px;
+}
+
+.form-row select {
+  height: 35px !important;
+}
+
+.button-primary {
+  text-transform: capitalize !important;
+}
+
+.warning-msg {
+  margin: 5px 0 15px !important;
+  border-left-color: #ffb900 !important;
+  background: #fff;
+  border-left: 4px solid #fff;
+  -webkit-box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+  padding: 3px 12px;
+  display: none;
+}
+
+.warning-msg p,
+.test_conn_msg p,
+.test_err_msg p,
+.wrng_credential p,
+.not_allowed p {
+  margin: 0.5em 0;
+}
+
+.test_conn_msg {
+  margin: 5px 0 15px !important;
+  border-left-color: #46b450 !important;
+  background: #fff;
+  border-left: 4px solid #fff;
+  -webkit-box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+  padding: 9.5px 12px;
+}
+
+.test_err_msg {
+  margin: 5px 0 15px !important;
+  border-left-color: #dc3232 !important;
+  background: #fff;
+  border-left: 4px solid #fff;
+  -webkit-box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+  padding: 9.5px 12px;
+}
+
+@media only screen and (max-width: 853px) {
+  .wwex_connection_section_class p.submit {
+    float: left;
+    text-align: left;
+    width: calc(100% - 310px);
+  }
+
+  .wwex_connection_section_class .button-primary {
+    margin-top: 10px;
+  }
+}
+
+.wc_settings_quest_as_residential_delivery_wwe_small_packages th,
+.avaibility_auto_residential th {
+  margin-left: 10px !important;
+  font-weight: 400;
+}
+
+label[for="residential_delivery_options_label_heading"],
+label[for="auto_residential_delivery_plan_auto_renew"],
+label[for="residential_delivery_current_subscription"],
+label[for="residential_delivery_current_usage"],
+.suspend_automatic_detection_of_residential_addresses_style .titledesc {
+  font-weight: 600 !important;
+}
+
+.wc_settings_quest_as_residential_delivery_wwe_small_packages th,
+.avaibility_auto_residential th {
+  padding: 0px 10px 0px 15px !important;
+  font-weight: 400 !important;
+}
+
+.wc_settings_quest_as_residential_delivery_wwe_small_packages td,
+.avaibility_auto_residential td {
+  padding: 0px 10px !important;
+}
+
+.quote_section_class_smpkg .restrict_calendar_transit_wwe_small_packages th,
+.quote_section_class_smpkg .ground_transit_wwe_small_packages th {
+  padding: 10px 10px 0px 15px !important;
+  font-weight: 400 !important;
+}
+
+.quote_section_class_smpkg span.description {
+  font-style: normal !important;
+}
+
+.ground_transit_label td a,
+.wwe_small_cutOffTime_shipDateOffset_required_label td a {
+  text-decoration: none;
+  font-size: 17px;
+  color: red;
+  font-weight: bold;
+  display: inline-block;
+  margin: 0px 0px 5px -111px;
+}
+
+.hazardous_material_settings td a {
+  text-decoration: none;
+  font-size: 17px;
+  color: red;
+  font-weight: bold;
+  display: inline-block;
+  margin: 0px 0px 5px -122px;
+}
+
+._dropship_location a {
+  text-decoration: none;
+  font-size: 17px;
+  color: red;
+  font-weight: bold;
+  display: inline-block;
+  margin: 3px 0 0 0;
+}
+
+p.form-field._dropship_location .p_ds_location {
+  margin: 0 10px 0 0px;
+}
+
+.quote_section_class_smpkg .air_hazardous_material_fee th,
+.quote_section_class_smpkg .ground_hazardous_material_fee th,
+.quote_section_class_smpkg
+  .only_quote_ground_service_for_hazardous_materials_shipments
+  th {
+  padding: 10px 10px 0px 15px !important;
+  font-weight: 400 !important;
+}
+
+textarea.prevent_text_box {
+  width: 250px;
+  border-radius: 1px;
+}
+
+.wwe_small_markup_label_tr th {
+  padding: 0px 10px 0px 15px !important;
+  font-weight: 400 !important;
+}
+
+.wwe_small_markup_label_tr td {
+  padding-bottom: 0px !important;
+  padding-top: 0px !important;
+}
+
+.wwe_small_markup {
+  border-radius: unset !important;
+}
+
+input#wc_settings_quest_as_residential_delivery_wwe_small_packages,
+input#only_quote_ground_service_for_hazardous_materials_shipments {
+  margin-left: 0px !important;
+}
+
+tr.wc_settings_hand_free_mark_up_wwe_small_packages_tr span.description,
+tr.air_hazardous_material_fee span.description,
+tr.ground_hazardous_material_fee span.description {
+  display: block;
+}
+
+span.wwe_small_custom_message textarea.prevent_text_box {
+  width: 400px !important;
+}
+
+.quote_section_class_smpkg input[type="text"],
+.quote_section_class_smpkg select {
+  width: 300px !important;
+  border-radius: 1px;
+  height: 36px !important;
+}
+
+.wwex_connection_section_class input[type="text"],
+.wwex_connection_section_class select {
+  width: 350px !important;
+  border-radius: 1px;
+  height: 36px !important;
+}
+
+/*estimated delivery options css*/
+.quote_section_class_smpkg tbody {
+  display: block;
+}
+
+tr.wwe_small_shipment_day_tr th,
+#service_wwe_small_estimates_title {
+  display: none;
+}
+
+.quote_section_class_smpkg p.description {
+  font-style: normal;
+  margin: 0px;
+}
+
+.quote_section_class_smpkg tr.residential_delivery_options_plans_style {
+  padding-top: 30px;
+}
+
+tr.service_wwe_small_estimates_title_tr th {
+  font-size: 1.2em;
+  padding-bottom: 0px !important;
+}
+
+.wwe_small_cutOffTime_shipDateOffset th {
+  font-weight: 400;
+  padding-left: 15px;
+  padding-right: 16px !important;
+}
+
+.wwe_small_markup_tr td {
+  padding-bottom: 0px !important;
+  padding-top: 0px !important;
+}
+
+.wwe_small_markup_tr th {
+  display: none;
+}
+
+.quotes_services_tr td,
+.wwe_small_markup_tr th,
+.wwe_small_markup_tr td {
+  margin: 0px 0px 0px 0px !important;
+  padding-top: 0px !important;
+}
+
+.quotes_services_tr th {
+  padding: 10px 0px 10px 10px;
+}
+
+/*Css for nested material fields*/
+._nestedDimension,
+._nestedStakingProperty {
+  width: 50% !important;
+}
+
+._nestedMaterials_tr .description a {
+  text-decoration: none;
+  font-size: 17px;
+  color: red;
+  font-weight: bold;
+  position: relative;
+  font-style: normal;
+  top: 3px;
+}
+
+._nestedMaterials_tr .description {
+  font-style: normal;
+  font-size: 12px;
+}
+
+.disabled_me._nestedDimension,
+.disabled_me._nestedStakingProperty {
+  color: #000000;
+}
+
+#order_shipping_line_items .shipping .display_meta {
+  display: none;
+}
